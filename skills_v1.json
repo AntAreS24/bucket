@@ -1,0 +1,96 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Soft skills",
+      "children": [
+        { "name": "Communication", "value": 30 },
+        { "name": "Team work", "value": 25 },
+        { "name": "Adaptability", "value": 25 },
+        { "name": "Problem-Solving", "value": 30 },
+        { "name": "Creativity", "value": 20 },
+        { "name": "Work Ethic", "value": 25 },
+        { "name": "Time Management", "value": 15 },
+        { "name": "Leadership", "value": 30 },
+        { "name": "Attention to Detail", "value": 25 },
+        { "name": "Interpersonal Skills", "value": 25 }
+      ]
+    },
+    {
+      "name": "Technical Skills",
+      "children": [
+        { 
+          "name": "Programming Languages", 
+          "children": [
+            { "name": "Java", "value": 20 },
+            { "name": "Javascript", "value": 25 },
+            { "name": "Python", "value": 5 },
+            { "name": "R", "value": 5 },
+            { "name": "HTML", "value": 25 },
+            { "name": "XML", "value": 25 },
+            { "name": "SQL", "value": 20 },
+            { "name": "XSLT", "value": 25 }
+          ]
+        },
+        { 
+          "name": "Platform/Frameworks", 
+          "children": [
+            { "name": "Apache Kafka", "value": 20 },
+            { "name": "TIBCO BusinessWorks", "value": 25 },
+            { "name": "TIBCO StreamBase", "value": 25 },
+            { "name": "TIBCO Spotfire", "value": 20 },
+            { "name": "TIBCO EMS", "value": 20 },
+            { "name": "Kubernetes", "value": 15 },
+            { "name": "Docker", "value": 20 },
+            { "name": "AngularJS", "value": 25 },
+            { "name": "Bootstrap", "value": 25 }
+          ]
+        },
+        { 
+          "name": "Analytics/Visualisation", 
+          "children": [
+            { "name": "TIBCO Spotfire", "value": 20 },
+            { "name": "Three.js", "value": 15 },
+            { "name": "D3.js", "value": 20 },
+            { "name": "Unity 3D", "value": 20 },
+            { "name": "Blender", "value": 20 },
+            { "name": "3DSMax", "value": 20 },
+            { "name": "Bootstrap", "value": 25 }
+          ]
+        },
+        { 
+          "name": "Mobile Developement", 
+          "children": [
+            { "name": "ReactNative", "value": 25 },
+            { "name": "Android Java", "value": 15 },
+            { "name": "Flutter", "value": 5 }
+          ]
+        },
+        { 
+          "name": "Productivity Software", 
+          "children": [
+            { "name": "Jira", "value": 25 },
+            { "name": "Confluence", "value": 25 },
+            { "name": "Slack", "value": 25 },
+            { "name": "MS Teams", "value": 20 },
+            { "name": "Skype", "value": 20 },
+            { "name": "Trello", "value": 20 },
+            { "name": "Google Suite", "value": 25 },
+            { "name": "Zoom", "value": 15 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Industries",
+      "children": [
+        { "name": "Finance", "value": 30 },
+        { "name": "Health", "value": 25 },
+        { "name": "Insurance", "value": 15 },
+        { "name": "Energy", "value": 15 },
+        { "name": "Manufacturing", "value": 20 },
+        { "name": "Transport", "value": 25 }
+      ]
+    }
+  ]
+}
